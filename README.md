@@ -5,5 +5,5 @@
 **MacTools**-simple tools for admins in one program!
 # List of tools
 1) Maintence
-*** 
-ggg
+*** 🧹 Clean Cache, 🧼 Clear Logs, 🚀 Manage Startup
+
