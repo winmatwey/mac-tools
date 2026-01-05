@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# Mac Admin Multitool — Dark Theme, Scrollable, Full Features (Top CPU removed, scrollbar fixed)
+#MACTOOLS OPEN CODE github.com/winmatwey/mac-tools
 import os
 import shutil
 import subprocess
