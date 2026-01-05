@@ -30,6 +30,7 @@
 # HOW TO SETUP
 ***
 *1)If using an app, unzip the V5 archive and open the MacTool-V5 app.
+---
 *2)If using Python, install dependencies (pip install). Then run the project in the terminal (sudo python3 thenameoffile.py).
 *** 
 **PLEASE START THIS PROGRAM ONLY ONE THE MACOS! IT DONT WORK ON WINDOWS.**
