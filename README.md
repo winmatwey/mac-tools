@@ -1,8 +1,7 @@
 
-# MacTools
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MacTools-simple+tools+for+admins+in+one+program!)](https://git.io/typing-svg)
 [![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/)
 #
-**MacTools**-simple tools for admins in one program!
 # List of tools
 **1. 🧹 Maintence**
 ***
