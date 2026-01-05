@@ -1,6 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=4F86F7&width=700&height=54&lines=MacTools-simple+tools+for+admins!)](https://git.io/typing-svg)
-[![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/)
 #
 # List of tools
 **1. 🧹 Maintence**
